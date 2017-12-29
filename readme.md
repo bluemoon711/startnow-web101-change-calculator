@@ -1,1 +1,0 @@
-A module for an automated check-out system of a nationally-based grocery store chain.
